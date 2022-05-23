@@ -20,11 +20,11 @@ One of the biggest challenges in this dataset is the heavy classs imbalance (~1:
 
 Libraries used:
 
-library(data.table)
-library(mltools)
-library(e1071)
-library(ggcorrplot)
-library(MLmetrics)
-library(caret)
-library(kernlab)
-library(themis)
+- library(data.table)
+- library(mltools)
+- library(e1071)
+- library(ggcorrplot)
+- library(MLmetrics)
+- library(caret)
+- library(kernlab)
+- library(themis)
