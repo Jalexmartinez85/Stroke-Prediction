@@ -1,6 +1,6 @@
 # Predicting Incidence of Strokes using SVM-polynomial in R
 
-Using a dataset containing patient attributes, I will attempt to model and predict the occurance of strokes in the patient using R. Initially, I will only be using the SVM polynomial kernel. Further itterations will make use of different approaches.  
+Using a dataset containing patient attributes, I will attempt to model and predict the occurance of strokes in the patient using R. Initially, I will only be using the SVM polynomial kernel. Further iterations will make use of different approaches.  
 
 This stroke prediction dataset contains 5110 observations with 12 attributes. As mentioned previously, one of these attributes will be our response variable, i.e., whether the patient suffered a stroke or not. The attributes contained have both categorical and numerical values. A full description of all variables can be seen below:
 1.	ID (categorical): Unique identifier
