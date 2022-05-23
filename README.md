@@ -1,4 +1,4 @@
-# Stroke-Prediction
+# Predicting Incidence of Strokes using SVM-polynomial in R
 
 Using a dataset containing patient attributes, I will attempt to model and predict the occurance of strokes in the patient using R. Initially, I will only be using the SVM polynomial kernel. Further itterations will make use of different approaches.  
 
